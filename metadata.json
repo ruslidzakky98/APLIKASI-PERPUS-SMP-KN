@@ -1,0 +1,6 @@
+{
+  "name": "Perpus Sekolah",
+  "description": "Sistem Informasi Perpustakaan Sekolah (Smart Library System) dengan Dashboard Interaktif, Data User, Katalog Buku, Peminjaman, Pengembalian, Denda, dan Backup Data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
